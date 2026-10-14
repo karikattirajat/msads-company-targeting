@@ -1,0 +1,14 @@
+.env
+*.env
+.refresh_token
+msads_config.json
+msads-company-targeting/references/accounts.md
+*.csv
+!**/templates/*.csv
+checkpoint*
+live_*
+bulk_*
+result_*
+upload_*
+__pycache__/
+.DS_Store
